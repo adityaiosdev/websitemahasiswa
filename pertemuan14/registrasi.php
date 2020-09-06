@@ -2,6 +2,11 @@
 <html>
 <head>
 	<title>Halaman Registrasi</title>
+	<style>
+		label{
+			display: block;
+		}
+	</style>
 </head>
 <body>
 
